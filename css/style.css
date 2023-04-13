@@ -3,3 +3,38 @@
     padding: 0px;
     margin: 0px;
 }
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.container ul{
+    display: flex;
+}
+.container ul li {
+    padding: 10px 20px;
+    list-style: none;
+}
+
+.container ul li a{
+    text-decoration: none;
+   
+
+}
+.navbar .btn{
+    display: flex;
+    
+}
+.navbar .btn li{
+    list-style: none;
+    padding: 10px 20px;
+
+}
+.navbar .btn li a{
+    text-decoration: none;
+}
+main{
+    display: flex;
+}
